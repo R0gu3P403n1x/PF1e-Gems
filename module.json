@@ -27,6 +27,6 @@
             "system": "pf1"
         }
     ],
-    "manifest": "http://64.25.140.141:30000/compendium2module/pf1-gems/module.json",
-    "download": "http://64.25.140.141:30000/compendium2module/pf1-gems/pf1-gems.zip"
+    "manifest": "https://github.com/R0gu3P403n1x/PF1e-Gems/blob/main/module.json",
+    "download": "https://github.com/R0gu3P403n1x/PF1e-Gems/blob/main/pf1-gems.zip"
 }
