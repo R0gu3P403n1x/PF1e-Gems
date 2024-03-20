@@ -1,0 +1,32 @@
+{
+    "name": "pf1-gems",
+    "title": "Gems for pf1",
+    "description": "A module containing the exported Gems for pf1 compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "compatibility": {
+        "minimum": 10,
+        "verified": 11,
+        "maximum": 12
+    },
+    "authors": [
+        {
+            "name": "Phoenix Alexander",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "packs": [
+        {
+            "type": "Item",
+            "label": "Gems",
+            "module": "pf1-gems",
+            "path": "packs/areanthus-gems-1709881118099.db",
+            "name": "areanthus-gems-1709881118099",
+            "system": "pf1"
+        }
+    ],
+    "manifest": "http://64.25.140.141:30000/compendium2module/pf1-gems/module.json",
+    "download": "http://64.25.140.141:30000/compendium2module/pf1-gems/pf1-gems.zip"
+}
