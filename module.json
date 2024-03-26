@@ -2,9 +2,9 @@
     "name": "pf1-gems",
     "title": "Gems for pf1",
     "description": "A module containing the exported Gems for pf1 compendium.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "library": "false",
-    "manifestPlusVersion": "1.0.1",
+    "manifestPlusVersion": "1.0.2",
     "compatibility": {
         "minimum": 10,
         "verified": 11,
@@ -27,6 +27,6 @@
             "system": "pf1"
         }
     ],
-    "manifest": "https://github.com/R0gu3P403n1x/PF1e-Gems/releases/download/v1.0.1/module.json",
-    "download": "https://github.com/R0gu3P403n1x/PF1e-Gems/releases/download/v1.0.1/pf1-gems.zip"
+    "manifest": "https://github.com/R0gu3P403n1x/PF1e-Gems/releases/download/v1.0.2/module.json",
+    "download": "https://github.com/R0gu3P403n1x/PF1e-Gems/releases/download/v1.0.2/pf1-gems.zip"
 }
