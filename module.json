@@ -22,8 +22,8 @@
             "type": "Item",
             "label": "Gems",
             "module": "pf1-gems",
-            "path": "packs/areanthus-gems-1709881118099.db",
-            "name": "areanthus-gems-1709881118099",
+            "path": "packs/pf1-gems.db",
+            "name": "pf1-gems-",
             "system": "pf1"
         }
     ],
