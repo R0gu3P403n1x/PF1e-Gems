@@ -23,7 +23,7 @@
             "label": "Gems",
             "module": "pf1-gems",
             "path": "packs/pf1-gems.db",
-            "name": "pf1-gems-",
+            "name": "pf1-gems",
             "system": "pf1"
         }
     ],
